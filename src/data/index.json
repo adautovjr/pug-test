@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "d0fe1195-6550-40c2-8dd0-b639d3245240",
+      "articleLink": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/11/15/governo-doria-sao-paulo-subnotificacao-dados-covid-19.htm",
+      "author": "Leonardo Martins",
+      "createdAt": "15/11/2021 04h00",
+      "title": "São Paulo estuda liberar uso de máscaras, mas se apoia em dados defasados",
+      "img": "https://conteudo.imguol.com.br/c/noticias/44/2021/11/12/3nov2021---joao-doria-psdb-governador-de-sao-paulo-participa-de-coletiva-de-imprensa-para-falar-sobre-a-pandemia-1636744930682_v2_900x506.jpg.webp",
+      "imgDesc": "João Doria, (PSDB) governador de São Paulo, participa de coletiva de imprensa para falar sobre a pandemia",
+      "body": "Para liberar o uso de máscaras de proteção em ambientes abertos no mês de dezembro, o governo de São Paulo traça um cenário ideal dos dados da pandemia para que a decisão seja tomada de forma segura. O monitoramento, no entanto, está comprometido. Há dois meses não é possível saber ao certo quantas pessoas registram testes positivos para a covid-19 no estado, conforme apontam levantamentos do Infotracker, instituto de análise de dados da USP e da Unesp, e de uma rede de pesquisa do Facebook, apoiada pelo Conass (Conselho Nacional de Secretários de Saúde)"
+    },
+    {
+      "id": "f07393be-f6e9-4525-86f3-9b35dff7ea3f",
+      "articleLink": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/11/15/tubarao-praia-sao-paulo-ilha-comprida-menino.htm",
+      "author": "Do UOL, em São Paulo",
+      "createdAt": "15/11/2021 19h16",
+      "title": "Menino de 11 anos é ferido na perna por tubarão em praia de SP",
+      "img": "https://conteudo.imguol.com.br/c/noticias/24/2021/11/15/menino-e-ferido-por-tubarao-em-ilha-comprida-em-sao-paulo-e-leva-pontos-na-perna-1637015739345_v2_300x225.png.webp",
+      "imgDesc": "Menino é ferido por tubarão em Ilha Comprida, em São Paulo, e leva pontos na perna",
+      "body": "Um menino de 11 anos foi atingido na perna esquerda por um tubarão em Ilha Comprida, no litoral sul de São Paulo, nesta segunda-feira (15). Ele foi atendido na unidade de pronto atendimento e passa bem. Segundo a Prefeitura de Ilha Comprida, não houve ataque. O menino apenas esbarrou em um cardume de cação (espécie de tubarão) por volta das 12h na Praia do Boqueirão Norte e foram necessários dois pontos para fechar o ferimento."
+    },
+    {
+      "id": "72734d03-0f8f-455b-a7d2-f0df8f4f46cf",
+      "articleLink": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2021/11/15/brasil-tem-5887-da-populacao-totalmente-imunizada-contra-a-covid-19.htm",
+      "author": "Estadão",
+      "createdAt": "15/11/2021 20h43",
+      "title": "Brasil tem 58,87% da população totalmente imunizada contra a covid-19",
+      "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/11D74/production/_116567037_gettyimages-1287271384.jpg",
+      "imgDesc": "Imagem da Vacina contra Covid",
+      "body": "São Paulo - O Brasil tem 125,5 milhões de pessoas totalmente imunizadas contra a covid, ou 58,87% da população. É o que aponta o levantamento do consórcio de veículos de imprensa. O número de pessoas parcialmente imunizadas, com ao menos uma dose da vacina, é de 156.962.922. Isso corresponde a 73,58% do total de habitantes do País. Houve 318,8 mil aplicações em um intervalo de 24 horas. As primeiras doses foram aplicadas em pouco mais de 44 mil pessoas, enquanto 205,8 mil receberam a 2ª aplicação da vacina. O registro de dose única aparece como 243 aplicações. Já as doses de reforço foram administradas em 68,7 mil habitantes, com total de pouco mais de 12 milhões de doses aplicadas."
+    }
+  ]
+}

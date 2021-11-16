@@ -1,0 +1,13 @@
+mixin generateNewsArticle(report)
+  article(id="report-id-" + report.id) 
+    header
+      h3
+        a(href=report.articleLink)=report.title
+      p=report.author
+      span=report.createdAt
+    section
+      figure 
+        img(src=report.img, alt=report.imgDesc)
+        caption=report.imgDesc
+      br
+      p=report.body

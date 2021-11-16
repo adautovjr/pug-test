@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "15ccc978-c47f-4121-b859-e87701fc2622",
+      "articleLink": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2021/11/15/desembarque-selecao-brasileira-san-juan.htm",
+      "author": "Igor Siqueira",
+      "createdAt": "15/11/2021 22h27",
+      "title": "Com turbulência e sem Neymar, Brasil desembarca para clássico em San Juan",
+      "img": "https://conteudo.imguol.com.br/c/esporte/33/2021/11/15/thiago-silva-zagueiro-da-selecao-na-chegada-ao-hotel-em-san-juan-1637030441509_v2_900x506.jpg.webp",
+      "imgDesc": "Thiago Silva, zagueiro da seleção, na chegada ao hotel em San Juan",
+      "body": "A delegação da seleção brasileira desembarcou hoje (15) por volta de 22h (de Brasília) no Aeroporto Internacional de San Juan, na Argentina. A cidade é palco do clássico de amanhã, às 20h30, pelas Eliminatórias da Copa do Mundo do Qatar. O voo do Brasil passou por uma turbulência na chegada ao país vizinho. San Juan registra fortes ventanias na noite desta segunda-feira, o que causou os momentos de tensão no voo que saiu do Brasil perto de 18h. Membros da comissão técnica comentaram que a situação foi intensa. O avião chegou a fazer uma volta circular tentando ganhar tempo em busca de melhores condições de pouso, o que acabou acontecendo. Apesar de tudo, o desembarque ocorreu próximo do horário previamente marcado."
+    },
+    {
+      "id": "1182bbc4-cb4c-49e6-8b82-3c41cca2fa71",
+      "articleLink": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2021/11/15/neymar-reclama-de-dores-apos-treino-e-desfalca-o-brasil-contra-a-argentina.htm",
+      "author": "Gabriel Carneiro e Igor Siqueira",
+      "createdAt": "15/11/2021 17h04",
+      "title": "Neymar reclama de dores após treino e desfalca o Brasil contra a Argentina",
+      "img": "https://conteudo.imguol.com.br/c/esporte/79/2021/11/10/neymar-durante-treino-da-selecao-brasileira-em-sao-paulo-1636573600434_v2_900x506.jpg.webp",
+      "imgDesc": "Neymar atuou no jogo contra a Colômbia, mas será 'preservado' diante da Argentina, como informou a CBF",
+      "body": "Neymar será desfalque da seleção brasileira na partida de amanhã (16), às 20h30, contra a Argentina, pela 14ª rodada das Eliminatórias da Copa do Mundo do Qatar. O camisa 10 reclamou de dores na região do músculo adutor da coxa esquerda após o treinamento realizado nesta manhã na Academia de Futebol do Palmeiras, em São Paulo. 'Neymar Jr. relatou insegurança com a situação e por não haver tempo hábil para a realização de exames complementares, a comissão técnica optou por preservar o jogador que não viajará com a delegação', informou a CBF em nota oficial nesta tarde, logo após o deslocamento dos jogadores do hotel para o Aeroporto de Guarulhos."
+    },
+    {
+      "id": "53ff8656-5a29-4ed6-a31f-ebc9cd2aae86",
+      "articleLink": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2021/11/16/mattos-michael-e-a-rosa-que-furou-o-asfalto.htm",
+      "author": "Rodrigo Mattos",
+      "createdAt": "16/11/2021 04h00",
+      "title": "Mattos: Michael é a flor que furou o asfalto",
+      "img": "https://conteudo.imguol.com.br/c/parceiros/38/2021/11/15/michael-esta-vivendo-uma-grande-fase-com-a-camisa-do-flamengo-e-renato-gaucho-elogiou-o-atacante-1636995821528_v2_450x450.jpg.webp",
+      "imgDesc": "Michael está vivendo uma grande fase com a camisa do Flamengo e Renato Gaúcho elogiou o atacante",
+      "body": "Há uma poesia de Carlos Drummond de Andrade que trata da automatização da sociedade, quando os homens deixam de se encantar com o que há de belo e aleatório no mundo e se sentem entediados, entorpecidos por um mundo opressivo. Chama-se 'A Flor e a Naúsea', e a flor, no caso, consegue nascer neste mundo cinza no chão de uma capital. De uma certa forma, Michael é a flor da poesia, aquele que surgiu em um cenário improvável e bagunça a ordem das coisas. Sem ser titular do Flamengo, tornou-se artilheiro do Brasileiro. Sem ter todos os fundamentos desenvolvidos, é aquele que causa desequilíbrio em jogos da elite do futebol nacional. Sem ter uma trajetória regular no futebol, transformou isso em força como um elemento imprevisível."
+    }
+  ]
+}

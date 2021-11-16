@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "6c705a14-9b8a-4f8a-81d9-3912d214694e",
+      "articleLink": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2021/11/15/documentario-conta-historia-dos-420-anos-da-paroquia-de-nossa-senhora-da-apresentacao-em-natal.ghtml",
+      "author": "Por g1 RN",
+      "createdAt": "15/11/2021 18h25",
+      "title": "Documentário conta história dos 420 anos da Paróquia de Nossa Senhora da Apresentação em Natal",
+      "img": "https://s2.glbimg.com/dRmx-mn0pjsJSlI--RUbx2ml1ew=/0x0:1642x1094/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2017/05/16/att00093.jpg",
+      "imgDesc": "Igreja Matriz de Nossa Senhora da Apresentação (Catedral Antiga), na Cidade Alta",
+      "body": "A história da Paróquia de Nossa Senhora da Apresentação, na Cidade Alta, em Natal, será contada em documentário que tem pré-estreia marcada para quarta-feira (17). 'A Matriz de Natal' vai destacar registros e recordações através de relatos e resgate histórico sobre a construção da paróquia, sua importância para o desenvolvimento do município de Natal, as reformas, restauros e tesouros da primeira igreja erguida no Rio Grande do Norte, em 1601. A sessão de pré-estreia reúne convidados do clero, jornalistas, equipe técnica e influencers, em sala de cinema, na quarta-feira. O documentário, que tem 30 minutos de duração e foi produzido pelo Orne Estúdio Criativo, estará disponível para o público em geral a partir do dia 20, nas redes sociais da Paróquia de Nossa Senhora da Apresentação e da Arquidiocese de Natal. Como parte da programação da festa de Nossa Senhora da Apresentação, o foyer esquerdo da Igreja Matriz (antiga Catedral) recebe até o dia 21 uma exposição alusiva ao documentário, apresentando os bastidores da produção e também a linha do tempo da construção da Igreja de Nossa Senhora da Apresentação. Uma das atrações é a pedra fundamental original da construção do templo, devolvida pela Funcarte. A visitação é gratuita, e pode ser feita das 15h às 18h."
+    },
+    {
+      "id": "ab0726a0-def7-4ace-8751-303b1cbd1f63",
+      "articleLink": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2021/11/15/incendio-atinge-vegetacao-em-terreno-de-fabrica-de-refrigerantes-fechada-na-grande-natal.ghtml",
+      "author": "Por Inter TV Cabugi",
+      "createdAt": "15/11/2021 13h13",
+      "title": "Incêndio atinge vegetação em terreno de fábrica de refrigerantes fechada na Grande Natal",
+      "img": "https://s2.glbimg.com/1TLgXzbvcRpPms72Cg3qe0nDW08=/0x0:1600x1200/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/2/n/7XxTt0SmOi0MdjQAxOAg/whatsapp-image-2021-11-15-at-12.37.07-3-.jpeg",
+      "imgDesc": "Incêndio atinge terreno abandonado de fábrica de refrigerantes na Grande Natal — Foto: Ayrton Freire/Inter TV Cabugi",
+      "body": "Um incêndio se espalhou pela vegetação do terreno de uma fábrica de refrigerantes desativada há cerca de cinco anos em Parnamirim, região metropolitana de Natal. O caso aconteceu na manhã desta segunda-feira (15). O fogo teria começado por volta das 10h, segundo a população que mora próximo ao local, e o Corpo de Bombeiros foi acionado. Equipes trabalhavam no combate às chamas até a publicação desta matéria. Pelo menos cinco caminhões com capacidade de 5 mil litros de água foram usados."
+    },
+    {
+      "id": "ab151892-2e5f-41ab-9244-a4cca36bed8a",
+      "articleLink": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2021/11/14/carro-bate-e-derruba-parte-de-muro-de-batalhao-do-exercito-em-natal.ghtml",
+      "author": "Por Inter TV Cabugi",
+      "createdAt": "14/11/2021 11h45",
+      "title": "Carro bate e derruba parte de muro de batalhão do Exército em Natal",
+      "img": "https://s2.glbimg.com/MjM9suLhtUnyTOuRZwjP9wrwnPQ=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/z/x/DPmQOfSr6L6gEihp1wdg/whatsapp-image-2021-11-14-at-11.35.09.jpeg",
+      "imgDesc": "Carro bate e destrói parte do muro do 7º Batalhão de Engenharia do Exército em Natal",
+      "body": "Um motorista perdeu controle de um carro modelo HB20 e bateu no muro do 7º Batalhão de Engenharia de Combate do Exército, em Natal, no início da manhã deste domingo (14). Ninguém ficou ferido. O impacto do veículo derrubou parte da estrutura na entrada do batalhão, mas no meio da manhã o buraco já tinha sido tapado pelos militares. O oficial do dia foi procurado pela reportagem da Inter TV Cabugi, mas não quis comentar o caso. O prédio fica no bairro Nova Descoberta, na Zona Sul da cidade. As causas do acidente não foram informadas."
+    }
+  ]
+}

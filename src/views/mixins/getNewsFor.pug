@@ -1,0 +1,10 @@
+include generateNewsArticle
+
+mixin getNewsFor(file)
+  - var data = require(`./src/data/${file}.json`);
+  - var news = data.news
+  ul
+    each singleNew in news
+      li
+        +generateNewsArticle(singleNew)
+  

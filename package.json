@@ -1,0 +1,16 @@
+{
+  "name": "auditoria_web",
+  "version": "1.0.0",
+  "description": "simple news pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "pug -w . -o ./build -P"
+  },
+  "author": "Adauto Guedes",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0"
+  }
+}

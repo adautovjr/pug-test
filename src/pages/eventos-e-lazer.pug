@@ -1,0 +1,9 @@
+extends ../views/layout.pug
+include ../views/mixins/getNewsFor
+
+block title
+  title Eventos e Lazer
+
+block content
+  h1 Eventos e Lazer
+  +getNewsFor("eventos-e-lazer")
